@@ -1,6 +1,6 @@
 # Task Manager
 
-This C++ program implements a task manager application that allows users to manage various tasks and processes. The program provides functionalities such as adding tasks, displaying tasks, sorting tasks (FCFS and SJF algorithms), marking tasks as completed, killing tasks, displaying task details, showing all processes, and showing network usage.
+This project implements a task manager application that allows users to manage various tasks and processes. The program provides functionalities such as adding tasks, displaying tasks, sorting tasks (FCFS and SJF algorithms), marking tasks as completed, killing tasks, displaying task details, showing all processes, and showing network usage.
 
 ## Features
 
